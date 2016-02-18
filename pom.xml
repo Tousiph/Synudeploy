@@ -18,9 +18,9 @@
         </dependency>
     </dependencies>
     <scm>
-        <connection>scm:git:https://github.com/javaee-samples/javaee7-simple-sample.git</connection>
-        <url>https://github.com/javaee-samples/javaee7-simple-sample.git</url>
-        <developerConnection>scm:git:https://github.com/javaee-samples/javaee7-simple-sample.git</developerConnection>
+        <connection>scm:git:https://github.com/Tousiph/Synudeploy.git</connection>
+        <url>https://github.com/Tousiph/Synudeploy.git</url>
+        <developerConnection>scm:git:https://github.com/Tousiph/Synudeploy.git</developerConnection>
         <tag>v1.5</tag>
     </scm>
     <distributionManagement>
@@ -36,7 +36,7 @@
         </snapshotRepository>
     </distributionManagement>
     <build>
-    	<finalName>javaee7-simple-sample</finalName>
+    	<finalName>java-simple-sample</finalName>
         <pluginManagement>
             <plugins>
                 <plugin>
